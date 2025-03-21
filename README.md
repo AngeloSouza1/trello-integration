@@ -19,8 +19,11 @@ Automação inteligente para geração de relatórios do Trello com **Google Gem
 
 ## 🖼️ Interface
 
-![Interface do app](./assets/interface-example.png)  
-*(Adicione aqui um screenshot real da interface)*
+
+
+https://github.com/user-attachments/assets/595fe2da-9160-4007-849f-6105c68ff341
+
+
 
 ---
 
